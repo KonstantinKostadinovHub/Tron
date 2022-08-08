@@ -1,0 +1,12 @@
+rect: 487 633 30 66
+texture: player1.bmp
+speed: 4
+velocityX: 1
+
+up: 26
+left: 4
+down: 22
+right: 7
+
+hitbox: 20
+distance: 30

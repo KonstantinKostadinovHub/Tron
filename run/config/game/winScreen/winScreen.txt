@@ -1,0 +1,5 @@
+titleRect: 500 500 1072 109
+
+frames: 7
+frameSize: 1072 109
+timePerFrame: 30
